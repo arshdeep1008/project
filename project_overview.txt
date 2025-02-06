@@ -1,1 +1,3 @@
 This project is about...
+Feature: New User Authentication
+Description: Implement a new user authentication system using OAuth 2.0 to enhance security.
